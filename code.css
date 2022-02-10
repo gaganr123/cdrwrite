@@ -1,0 +1,140 @@
+
+
+.mt-20 {
+    margin-top: 50px !important
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: maroon;
+    margin: 0px 0px 15px 0px;
+    font-family: 'Circular Std Medium'
+}
+
+h1 {
+    font-size: 34px
+}
+
+h2 {
+    font-size: 30px;
+    
+}
+
+h3 {
+    font-size: 18px
+}
+
+h4 {
+    font-size: 25px;
+    line-height: 6px
+}
+
+h5 {
+    font-size: 15px;
+    line-height: 26px
+}
+
+h6 {
+    font-size: 12px
+}
+
+p {
+    color: black;
+    font-size: 15px;
+    text-align: justify;
+    margin: 0px 0px 20px 0px
+}
+
+p:last-child {
+    margin: 0px
+}
+
+
+
+
+
+
+.btn-secondary {
+    color: #fff;
+    background-color: #ff407b;
+    border-color: #ff407b
+}
+
+.btn {
+    font-size: 14px;
+    padding: 9px 16px;
+    border-radius: 2px
+}
+
+.tab-vertical .nav.nav-tabs {
+    
+    float: left;
+    display: block;
+    margin-right: 0px;
+    color: radial-gradient(circle, rgb(240, 109, 109) 0%, rgba(109, 6, 6, 0.992) 95%);;
+    border-bottom: 0
+}
+
+.tab-vertical .nav.nav-tabs .nav-item {
+    margin-bottom: 6px;
+    text-align: center;
+    font-family: 'Shalimar', cursive;
+    color: black;
+    font-size: 18px;
+
+}
+
+.tab-vertical .nav-tabs .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    
+   
+    color: #112d46;
+    background-color: rgb(240, 197, 197);
+    -webkit-border-radius: 4px 0px 0px 4px;
+    -moz-border-radius: 4px 0px 0px 4px;
+    border-radius: 4px 0px 0px 4px
+}
+
+.tab-vertical .nav-tabs .nav-link.active {
+    
+    background-color: #fff !important;
+    border-color: transparent !important
+}
+
+.tab-vertical .nav-tabs .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: 4px !important;
+    border-top-right-radius: 0px !important
+}
+
+.tab-vertical .tab-content {
+    
+    -webkit-border-radius: 0px 4px 4px 4px;
+    -moz-border-radius: 0px 4px 4px 4px;
+    border-radius: 0px 4px 4px 4px;
+    background: #fff;
+   padding: 30px;
+   overflow: auto;
+}
+
+
+
+
+ .fa {
+    
+    height: 30%;
+    width: 100%;
+    border-radius: 10px;
+    
+    
+}
+.code .tab-vertical{
+    box-shadow: 0 12px 36px rgba(236, 34, 34, 0.3);;
+}
+    
